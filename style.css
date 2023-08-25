@@ -1,0 +1,88 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url("https://source.unsplash.com/1600x900/?landscape");
+    background-size: cover;
+    min-height: 100vh;
+
+}
+
+.conteiner {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+    border-radius: 25px;
+    background-color: #201f1f;
+    opacity: 0.8;
+
+}
+
+.conteiner1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 40px;
+    opacity: 5;
+    margin-top: 20px;
+}
+
+h1 {
+    font-size: 100px;
+    margin-top: 10px;
+    color: rgb(243, 238, 238);
+}
+
+button {
+    font-size: 100px;
+    width: 175px;
+    height: 200px;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: opacity 0.5s ease-in-out;
+    border: none;
+    opacity: 1;
+}
+
+button:hover {
+    opacity: 0.7;
+    font-size: 150px;
+    transition: font-size 0.3s ease-in-out;
+}
+
+#pedra {
+    background-color: rgb(176, 130, 219);
+}
+
+#papel {
+    background-color: rgb(95, 212, 115);
+}
+
+#tesoura {
+    background-color: rgb(81, 160, 224);
+}
+
+p {
+    margin-top: 5px;
+    margin-bottom: 20px;
+    font-size: 40px;
+    color: rgb(243, 238, 238);
+    font-style: inherit;
+}
+
+.p1 span {
+    color: rgb(58, 139, 206);
+}
+
+.p2 span {
+    color: rgb(190, 49, 49);
+}
