@@ -1,5 +1,4 @@
-# Game JokenPÔ
-<h1>Projeto Game JoKenPÔ</h1>
+# Projeto Game JokenPÔ
 <p>Projeto criado atraves do DevClube, com algumas alterações e ideias minhas, dimensionado para todas as telas.</p>
 <h2>Tecnologias utilizadas</h2>
 <br>
