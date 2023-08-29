@@ -10,8 +10,8 @@ TESOURA.<br>
 ● PAPEL GANHA DA PEDRA;<br>
 ● TESOURA GANHA DO PAPEL.<br>
   <br>
-  A o clicar em cada botão você faz a sua excolha e a alexa também, e possivel ver a escolha da alexa no nome "Alexa:", <br>
-  o resultado sai logo abaixo se voce ganhou, se deu empate ou se você perdeu para a Alexa, tambem e feita a marcação da 
+  A o clicar em cada botão você faz a sua excolha e a alexa também, e possivel ver a escolha da alexa no nome "Alexa:", 
+  o resultado sai logo<br>abaixo se voce ganhou, se deu empate ou se você perdeu para a Alexa, tambem e feita a marcação da 
   pontuação do jogador e da Alexa.
 </p>
 <h2>Tecnologias utilizadas para o desenvolvimento do game</h2>
