@@ -20,7 +20,7 @@ TESOURA.<br>
   <li>CSS</li>
   <li>JavaScript</li>
 </ul>
-<p>👉🏻<a href="https://italoh27.github.io/Game_JokenPO/" rel="noreferrer noopener nofollow" target="_blank" >Clique aqui para jogar</a> <br></p>
+<p>👉🏻<a href="https://italoh27.github.io/Game_JokenPO/" target="_blank" >Clique aqui para jogar</a> <br></p>
 <br>
 <img src="https://raw.githubusercontent.com/italoh27/Game_JokenPO/b7483e1b0dc5430076e233ceb85b21f65d8f672e/img/Captura%20de%20tela%202023-08-27%20111626.png"/>
 <img src="https://raw.githubusercontent.com/italoh27/Game_JokenPO/b7483e1b0dc5430076e233ceb85b21f65d8f672e/img/Captura%20de%20tela%202023-08-27%20111505.png"/>
